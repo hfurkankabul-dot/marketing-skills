@@ -10,3 +10,5 @@ Thumbs.db
 
 # Node (if used)
 node_modules/
+cildoss-reels/.build/
+__pycache__/
